@@ -5,7 +5,7 @@ A real-time guitar tuner built on the **AVR128DB48 Curiosity Nano** microcontrol
 ---
 
 ## Demo
-[![Guitar Tuner Demo](https://img.shields.io/badge/Watch-Demo%20Video-red)](https://youtu.be/YMSiEr61HQ0)
+[![Guitar Tuner Demo](https://img.youtube.com/vi/YMSiEr61HQ0/maxresdefault.jpg)](https://youtu.be/hQYZdGbphz0)
 
 ---
 
